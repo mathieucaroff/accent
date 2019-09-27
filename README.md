@@ -15,3 +15,7 @@ certain conditions.
 ### Dependency
 
 - [Inputbot](https://github.com/obv-mikhail/inputbot) (v0.4.0)
+
+## License
+
+CC0 1.0 Universal / Public domain
